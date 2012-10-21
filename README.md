@@ -28,7 +28,7 @@ ezSQL uses MySQL in the example, but supports many other database management sys
 ## Documentation
 
 ###Epiphany
-<https://github.com/jmathai/epiphany#learn-more-about-the-modules>
+<https://github.com/jmathai/epiphany#learn-more-about-the-modules>  
 *Only the Route module is used in this example. You'll have to download and add any other modules you would like to use.*
 
 ###ezSQL
