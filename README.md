@@ -17,8 +17,6 @@ ezSQL uses MySQL in the example, but supports many other database management sys
 
 ### Install / Setup
 
-#### Apache
-
 1. Upload the `api` directory to the "web root" directory of your domain
 2. Adjust the "yourdomain.com" and database connection string values and database query in `api/index.php`
 3. Test by going to yourdomain.com/api/example and yourdomain.com/api/dbexample (you should see JSON output in the browser window or when viewing the page source)
