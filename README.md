@@ -40,3 +40,7 @@ For updates / suggestions / questions / etc.
     <td><img src="http://www.gravatar.com/avatar/86ceadeffc086eb21df5a49787315ff6?s=60"></td><td valign="middle">Trae Regan<br><a href="http://twitter.com/traeregan">@traeregan</a><br><a href="http://trae.name">http://trae.name</a></td>
   </tr>
 </table>
+
+## Related Repo
+
+Also check out [this repo](https://github.com/TraeRegan/PHP-RESTful-API-Template) for a similar RESTful API template, using the Slim framework, which is for PHP 5.3+.
